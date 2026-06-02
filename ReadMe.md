@@ -1,8 +1,8 @@
 # Lab 6 – Scale and Load Balance Your Architecture
 
 
-# Name: DODLA SUSMITHA
-# Register Number: 212224110016
+# Name: JAGADEESH T
+# Register Number: 212224020017
 
 ## Title
 
